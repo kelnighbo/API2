@@ -1,0 +1,57 @@
+body {
+    background-color:#b2d4db !important;
+
+}
+
+header {
+    text-align: center;
+    font-size: 55pt;
+    font-family: 'Bangers', cursive;
+    color: whitesmoke;
+    text-shadow: 2px 2px #256a78;
+}
+
+#imageOne {
+    width: 500px;
+    margin-left: 15px;
+}
+
+#imageTwo {
+    width: 500px;
+    margin-top: 20px;
+}
+
+#button {
+    text-align: center;
+    margin-top: 20px; 
+}
+
+#aq {
+    font-weight: bold;
+}
+
+#aqius {
+    font-weight: bold;
+}
+
+#hu {
+    font-weight: bold;
+}
+
+#pr {
+    font-weight: bold;
+}
+
+#ws {
+    font-weight: bold;
+}
+
+#h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 
+}
+
+
